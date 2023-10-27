@@ -15,7 +15,7 @@ The script first establishes a connection to the MySQL database based on user in
     ```
 3. Run the script `export_mysql_data.py`.
 4. Follow the prompts to provide the necessary database connection details and additional configurations.
-5. The script will generate the `insertion_commands.txt` file containing the SQL commands.
+5. The script will generate the `commands.txt` file containing the SQL commands.
 
 ## Requirements
 
