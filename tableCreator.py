@@ -54,7 +54,7 @@ def make_connection():
         exit()
 conn = make_connection()
 #----- MAIN PART OF THE PROGRAM -------#
-command_file = open("insertion_commands.txt","w")
+command_file = open("commands.txt","w")
 
 cursorObj = conn.cursor()
 
